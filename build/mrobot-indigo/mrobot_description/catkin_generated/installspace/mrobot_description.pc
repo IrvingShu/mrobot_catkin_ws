@@ -1,0 +1,8 @@
+prefix=/home/young/mrobot_catkin_ws/install
+
+Name: mrobot_description
+Description: Description of mrobot_description
+Version: 2.3.12
+Cflags: 
+Libs: -L/home/young/mrobot_catkin_ws/install/lib 
+Requires: urdf xacro

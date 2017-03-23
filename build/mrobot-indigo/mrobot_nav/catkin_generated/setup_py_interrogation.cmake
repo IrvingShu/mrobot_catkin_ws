@@ -1,0 +1,6 @@
+set(mrobot_nav_SETUP_PY_VERSION "0.4.0")
+set(mrobot_nav_SETUP_PY_SCRIPTS "")
+set(mrobot_nav_SETUP_PY_PACKAGES "mrobot_nav")
+set(mrobot_nav_SETUP_PY_PACKAGE_DIRS "src/mrobot_nav")
+set(mrobot_nav_SETUP_PY_MODULES "")
+set(mrobot_nav_SETUP_PY_MODULE_DIRS "")

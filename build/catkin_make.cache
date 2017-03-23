@@ -1,0 +1,2 @@
+mrobot-indigo/mrobot_apps:mrobot-indigo/mrobot_autonav:mrobot-indigo/mrobot_bringup:mrobot-indigo/mrobot_capabilities:mrobot-indigo/mrobot_description:mrobot-indigo/mrobot_nav
+-DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/young/mrobot_catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/young/mrobot_catkin_ws/install -G Unix Makefiles

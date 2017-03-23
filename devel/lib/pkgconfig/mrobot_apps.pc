@@ -1,0 +1,8 @@
+prefix=/home/young/mrobot_catkin_ws/devel
+
+Name: mrobot_apps
+Description: Description of mrobot_apps
+Version: 0.4.0
+Cflags: 
+Libs: -L/home/young/mrobot_catkin_ws/devel/lib 
+Requires: 

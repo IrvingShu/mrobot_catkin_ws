@@ -1,0 +1,8 @@
+prefix=/home/young/mrobot_catkin_ws/devel
+
+Name: mrobot_autonav
+Description: Description of mrobot_autonav
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/young/mrobot_catkin_ws/devel/lib 
+Requires: 

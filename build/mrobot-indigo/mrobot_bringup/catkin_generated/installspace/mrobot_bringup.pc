@@ -1,0 +1,8 @@
+prefix=/home/young/mrobot_catkin_ws/install
+
+Name: mrobot_bringup
+Description: Description of mrobot_bringup
+Version: 0.4.0
+Cflags: 
+Libs: -L/home/young/mrobot_catkin_ws/install/lib 
+Requires: 

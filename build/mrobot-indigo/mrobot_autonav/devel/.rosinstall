@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/young/mrobot_catkin_ws/build/mrobot-indigo/mrobot_autonav/devel/setup.sh
